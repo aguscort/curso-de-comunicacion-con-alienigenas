@@ -1,8 +1,8 @@
 # curso-de-comunicacion-con-alienigenaa
 
-Primer Semestre
+## Primer Semestre
 
-1. Fundamentos de Xenolingüística y Cognición Alienígena (6 créditos)
+### 1. Fundamentos de Xenolingüística y Cognición Alienígena (6 créditos)
 
 Justificación: Proporciona base teórica para comprender posibles sistemas de comunicación y estructuras cognitivas no humanas.
 
@@ -36,7 +36,7 @@ Calificación:
 - Examen (20%)
 - Participación (10%)
 
-2. Sistemas de IA para Decodificación de Señales Extraterrestres (6 créditos)
+### 2. Sistemas de IA para Decodificación de Señales Extraterrestres (6 créditos)
 
 Justificación: Desarrolla habilidades técnicas para crear sistemas de IA capaces de analizar y decodificar posibles señales extraterrestres.
 
@@ -70,7 +70,7 @@ Calificación:
 - Presentación (15%)
 - Participación (10%)
 
-3. Diseño de Protocolos de Comunicación Interestelar (6 créditos)
+### 3. Diseño de Protocolos de Comunicación Interestelar (6 créditos)
 
 Justificación: Enseña a crear sistemas y protocolos para establecer y mantener comunicación con inteligencias extraterrestres.
 
@@ -104,7 +104,7 @@ Calificación:
 - Ensayo (20%)
 - Participación (10%)
 
-4. Biología Extraterrestre (6 créditos)
+### 4. Biología Extraterrestre (6 créditos)
 
 Justificación: Explora las posibles formas de vida alienígena y sus implicaciones para la comunicación.
 
@@ -138,9 +138,9 @@ Calificación:
 - Presentación (20%)
 - Participación (10%)
 
-Segundo Semestre
+## Segundo Semestre
 
-5. Psicología Cognitiva Comparada: Humanos vs. Alienígenas (6 créditos)
+### 5. Psicología Cognitiva Comparada: Humanos vs. Alienígenas (6 créditos)
 
 Justificación: Analiza las posibles diferencias y similitudes entre la cognición humana y formas de cognición alienígena.
 
@@ -174,7 +174,7 @@ Calificación:
 - Presentación (20%)
 - Participación (10%)
 
-6. Comunicación Gráfica y Visual en Contextos Interestelares (6 créditos)
+### 6. Comunicación Gráfica y Visual en Contextos Interestelares (6 créditos)
 
 Justificación: Explora el potencial de la comunicación visual como medio universal para el intercambio de información con inteligencias extraterrestres.
 
@@ -212,7 +212,7 @@ Calificación:
 - Examen (20%)
 - Presentación (15%)
 
-7. Mitología y Narrativa sobre Alienígenas (6 créditos)
+### 7. Mitología y Narrativa sobre Alienígenas (6 créditos)
 
 Justificación: Examina el impacto cultural de las representaciones de alienígenas y su influencia en la conceptualización del contacto.
 
@@ -246,7 +246,7 @@ Calificación:
 - Presentación (20%)
 - Participación (10%)
 
-8. Proyecto Final: Simulación de Contacto y Comunicación Alienígena (6 créditos)
+### 8. Proyecto Final: Simulación de Contacto y Comunicación Alienígena (6 créditos)
 
 Justificación: Integra todos los conocimientos adquiridos en un ejercicio práctico de simulación de contacto y comunicación con una inteligencia alienígena.
 
